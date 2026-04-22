@@ -9,6 +9,7 @@
 - `ortools/cvrp_demo.py`：带载重限制的VRP（CVRP）
 - `ortools/vrptw_demo.py`：带时间窗的VRP（VRPTW）
 - `ortools/multi-depot_vrp.py`：多起点VRP + 可视化
+- `ortools/job_shop_scheduling.py`：Job Shop调度（CP-SAT）
 
 ### Gurobi
 - `Gurobi/LP_demo.py`：线性规划（运输问题）
